@@ -4,7 +4,8 @@
 
 This project is part of Task 8 from my Data Analyst journey. The objective was to design a simple and interactive Tableau dashboard to analyze sales data using the Superstore dataset.
 
-![image.alt](https://github.com/Saktalmale16/Task-8---Simple-Sales-Dashboard-Design./blob/main/sample_-_superstore.xls)
+
+![image alt](https://github.com/Saktalmale16/Task-8---Simple-Sales-Dashboard-Design./blob/main/sample_-_superstore.xls)
 
 
 # 📁 Dataset Used
