@@ -38,7 +38,7 @@ Technology leads in total sales (~₹800K+), followed by Furniture and Office Su
 
 Businesses are investing more in tech-related products.
 
-2. Sales by Sub-Category
+# 2. Sales by Sub-Category
    
 Phones (₹328K) and Chairs (₹223K) are the top-performing sub-categories.
 
