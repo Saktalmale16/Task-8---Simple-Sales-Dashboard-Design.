@@ -2,7 +2,7 @@
 
 # 👋 Overview
 
-This project is part of Task 8 from my Data Analyst journey. The objective was to design a simple and interactive Tableau dashboard to analyze sales data using the Superstore dataset.
+This project is part of Task 8 from my Data Analyst intership journey at Elevate Labs. The objective was to design a simple and interactive Tableau dashboard to analyze sales data using the Superstore dataset.
 
 Link To : [Interactive Dashboard](https://public.tableau.com/app/profile/sakshi.talmale/viz/SuperstoreDashboard_17272503157700/SuperstoreDashboard)
 
