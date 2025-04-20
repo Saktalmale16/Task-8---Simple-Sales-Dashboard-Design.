@@ -6,6 +6,8 @@ This project is part of Task 8 from my Data Analyst intership journey at Elevate
 
 Link To : [Interactive Dashboard](https://public.tableau.com/app/profile/sakshi.talmale/viz/SuperstoreDashboard_17272503157700/SuperstoreDashboard)
 
+# 📊 Superstore Dashboard  
+
 ![image alt](https://github.com/Saktalmale16/Task-8---Simple-Sales-Dashboard-Design./blob/main/Task%208%20Superstore%20Dashboard.PNG)
 
 # 📁 Dataset Used
@@ -89,3 +91,27 @@ Metric Type: Sales, Profit, or Orders
 Region: East, West, Central, South
 
 Year of Order Date: For trend breakdowns
+
+# 🔍 Key Insights
+
+📈 Technology is the top-performing category, nearing ₹800K in sales.
+
+📦 Phones and Chairs dominate the sub-category sales.
+
+🗺️ California and New York are major contributors in state-wise sales.
+
+📅 Sales peaked in late 2017, hitting the highest monthly record.
+
+# 📌 Summary
+
+This dashboard offers an interactive and insightful view of Superstore's performance. It effectively highlights:
+
+Top-performing categories, sub-categories, and products
+
+Key regional contributors to revenue
+
+Sales trends over time and segment performance
+
+It supports quick decision-making and business analysis for stakeholders.
+
+
