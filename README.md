@@ -10,6 +10,22 @@ Link To : [Interactive Dashboard](https://public.tableau.com/app/profile/sakshi.
 
 ![image alt](https://github.com/Saktalmale16/Task-8---Simple-Sales-Dashboard-Design./blob/main/Task%208%20Superstore%20Dashboard.PNG)
 
+# 📌 Dashboard Highlights
+
+Line Chart – Monthly Sales Trend (2013–2017)
+
+Bar Charts – Sales by Category and Subcategory
+
+Map – Sales distribution by State
+
+Donut Chart – Segment-wise Sales
+
+Top 5 Products – Sorted by Sales
+
+KPI Cards – Sales (₹), Profit Margin (%), Return Rate (%)
+
+Interactive Filters – Region, Year, and Metric (Sales, Profit, Orders)
+
 # 📁 Dataset Used
 
 Superstore Dataset
